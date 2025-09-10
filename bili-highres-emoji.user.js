@@ -7,8 +7,9 @@
 // @description:zh-CN    在Bilibili直播间渲染高清表情。
 // @author               TZFC
 // @match                https://live.bilibili.com/*
+// @icon                 https://www.bilibili.com/favicon.ico
 // @grant                none
-// @license              MIT
+// @license              GPL-3.0
 // ==/UserScript==
  (function () {
     'use strict';
