@@ -6,6 +6,8 @@
 // @description          Render Bilibili live room emojis in high resolution.
 // @description:zh-CN    在Bilibili直播间渲染高清表情。
 // @author               TZFC
+// @downloadURL          https://raw.githubusercontent.com/TZFC/Danmaku-replace/main/bili-highres-emoji.user.js
+// @updateURL            https://raw.githubusercontent.com/TZFC/Danmaku-replace/main/bili-highres-emoji.user.js
 // @match                https://live.bilibili.com/*
 // @icon                 https://www.bilibili.com/favicon.ico
 // @grant                none
